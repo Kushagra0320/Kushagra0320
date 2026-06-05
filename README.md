@@ -13,9 +13,7 @@
 
 ### Backend Engineer · Fintech & Banking Systems · Java · Spring Boot
 
-[![Email](https://img.shields.io/badge/Gmail-kushagra0320%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kushagra0320@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/kushagra](https://www.linkedin.com/in/kushagra-sharma-b78515249))
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushagra)
+
 
 
 </div>
@@ -114,19 +112,7 @@ SQL Query Optimization  Secure Protocols (SCP03) Swagger Documentation
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushagra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kushagra&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎓 Education & Certifications
 
@@ -173,7 +159,7 @@ I'm most effective in teams that care about **code quality, honest code reviews*
 If you're hiring, collaborating, or just want to talk about backend engineering and fintech systems:
 
 [![Email Me](https://img.shields.io/badge/Email-kushagra0320%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagra0320@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushagra%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushagra%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-sharma-b78515249)
 
 ---
 
