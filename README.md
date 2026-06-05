@@ -48,7 +48,7 @@ public class Kushagra {
 ## 💼 Professional Experience
 
 ### 🏦 Software Engineer Trainee — Centrico India Private Limited
-`Jan 2026 – Jun 2026 · Bangalore`
+`Jan 2026 – Jun 2026 · Chennai`
 
 Worked deep inside a **banking technology stack** — not surface-level, but in the engine room.
 
@@ -63,7 +63,7 @@ Worked deep inside a **banking technology stack** — not surface-level, but in 
 ---
 
 ### 📡 Java Programmer Intern — Jio Platforms Limited
-`Jun 2024 – Aug 2024`
+`Jun 2024 – Aug 2024 · Mumbai`
 
 Built a **desktop-grade Java application** for smart card testing operations in a telecom environment.
 
