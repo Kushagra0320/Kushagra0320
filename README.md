@@ -14,9 +14,9 @@
 ### Backend Engineer · Fintech & Banking Systems · Java · Spring Boot
 
 [![Email](https://img.shields.io/badge/Gmail-kushagra0320%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kushagra0320@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/kushagra](https://www.linkedin.com/in/kushagra-sharma-b78515249))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushagra)
-[![Profile Views](https://komarev.com/ghpvc/?username=kushagra&style=flat-square&color=brightgreen)](https://github.com/kushagra)
+
 
 </div>
 
